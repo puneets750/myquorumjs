@@ -39,7 +39,7 @@ txnManager.storeRawRequest(data, "Wd+SHPa7qj4sgwuS6RMg592Ch5imu1OK+RVSPFbg+Aw=")
    gasLimit: '0x47b760',
    isPrivate: true,
    to: '0xc3db4f6af243130aa290fe2a346158d04c44382c',//address of private contract
-   from:'0xa324164190666Ec78316fE318B40D9D2d8c3749d',//address obtained from private key at line 19 or line 37
+   from:'0xa324164190666Ec78316fE318B40D9D2d8c3749d',//address obtained from private key at line 19 or line 49
    value: `0x${(0).toString(16)}`,
    // This data should be the hex value of the hash returned by Quorum's privacy transaction manager after invoking storeraw api
  //  data: new Buffer(datah, 'hex')
